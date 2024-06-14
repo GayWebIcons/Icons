@@ -38,6 +38,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 ## Icons - Hookup Sites/Apps
 
 !!! note
+
     The icons do not appear well when using the GitHub dark theme. They are best viewed on a light theme.
 
 ### BBRT
