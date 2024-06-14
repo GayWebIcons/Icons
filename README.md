@@ -14,7 +14,6 @@ keywords:
 type: readme
 ---
 
-<style src="https://cdn.gaywebicons.xyz/style.css"></style>
 
 # Welcome to Gay Web Icons!
 
@@ -38,9 +37,10 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ## Icons - Hookup Sites/Apps
 
-### BBRT
+!!! note
+    The icons do not appear well when using the GitHub dark theme. They are best viewed on a light theme.
 
-<i style="background-image: url(./source-svg/hookup-sites/bbrt.svg')"></i>
+### BBRT
 
 <img src="./source-svg/hookup-sites/bbrt.svg" alt="BBRT" height="30" />
 
