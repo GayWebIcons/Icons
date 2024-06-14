@@ -40,6 +40,8 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### BBRT
 
+<i style="background-image: url(./source-svg/hookup-sites/bbrt.svg')"></i>
+
 <img src="./source-svg/hookup-sites/bbrt.svg" alt="BBRT" height="30" />
 
 
