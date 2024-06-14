@@ -39,7 +39,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 | Brand                      | Icon                                                                    | Sample Code                                    |
 | ---------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ |
-| BBRT                       | <img src="./source-svg/hookup-sites/bbrt.svg" height="30" />                                                                        | ```<i class="gi gi-bbrt"></i>```               |
+| BBRT                       | <img src="./source-svg/hookup-sites/bbrt.svg" height="30" /><i class="gi gi-bbrt"></i>                                                                        | ```<i class="gi gi-bbrt"></i>```               |
 | Grindr                     | <img src="./source-svg/hookup-sites/grindr.svg" height="30" />          | ```<i class="gi gi-grindr"></i>```                |
 | Grindr Wordmark            | <img src="./source-svg/hookup-sites/grindr-wordmark.svg" height="30" /> | ```<i class="gi gi-grindr-wordmark"></i>``` |
 | NastyKinPigs (NKP logo)    | <img src="./source-svg/hookup-sites/nkp.svg" height="30" />                         | ```<i class="gi gi-nkp"></i>```                |
@@ -54,7 +54,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 | BelAmi                       | <img src="./source-svg/porn/belami.svg" height="30" />                                                                        | ```<i class="gi gi-belami"></i>```               |
 | Helix Studios                     | <img src="./source-svg/porn/helixstudios.svg" height="30" />          | ```<i class="gi gi-grindr"></i>```                |
 | PornHub            | <img src="./source-svg/porn/pornhub.svg" height="30" /> | ```<i class="gi gi-grindr-helixstudios"></i>``` |
-| Sean Cody    | <img src="./source-svg/porn/seancody.svg" />                         | ```<i class="gi gi-pornhub"></i>```                |
+| Sean Cody    | <img src="./source-svg/porn/seancody.svg" height="30"  />                         | ```<i class="gi gi-pornhub"></i>```                |
 | NastyKinPigs ("Oink" logo) | <img src="./source-svg/porn/oink.svg" height="30" />            | ```<i class="gi gi-seancody"></i>```                |
 
 # License
