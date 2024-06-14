@@ -40,9 +40,8 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### BBRT
 
-![BBRT](./source-svg/hookup-sites/bbrt.svg)
+<img src="./source-svg/hookup-sites/bbrt.svg" alt="BBRT" height="30" />
 
-Glyph: <i class="gi gi-bbrt"></i>
 
 ```html
 <i class="gi gi-bbrt"></i>
@@ -50,7 +49,7 @@ Glyph: <i class="gi gi-bbrt"></i>
 
 ### Grindr
 
-![Grindr](./source-svg/hookup-sites/grindr.svg)
+<img src="./source-svg/hookup-sites/grindr.svg" alt="Grindr" height="30" />
 
 ```html
 <i class="gi gi-grindr"></i>
@@ -58,7 +57,7 @@ Glyph: <i class="gi gi-bbrt"></i>
 
 ### Grindr Wordmark
 
-![Grindr Wordmark](./source-svg/hookup-sites/grindr-wordmark.svg)
+<img src="./source-svg/hookup-sites/grindr-wordmark.svg" alt="Grindr Wordmark" height="30" />
 
 ```html
 <i class="gi gi-grindr-wordmark"></i>
@@ -66,7 +65,7 @@ Glyph: <i class="gi gi-bbrt"></i>
 
 ### NastyKinPigs (NKP logo)
 
-![NastyKinPigs (NKP logo)](./source-svg/hookup-sites/nkp.svg)
+<img src="./source-svg/hookup-sites/nkp.svg" alt="NastyKinPigs (NKP logo)" height="30" />
 
 ```html
 <i class="gi gi-nkp"></i>
@@ -74,7 +73,7 @@ Glyph: <i class="gi gi-bbrt"></i>
 
 ### NastyKinPigs ("Oink" logo)
 
-![NastyKinPigs ("Oink" logo)](./source-svg/hookup-sites/oink.svg)
+<img src="./source-svg/hookup-sites/oink.svg" alt="NastyKinPigs ('Oink' logo)" height="30" />
 
 ```html
 <i class="gi gi-nkp"></i>
@@ -86,7 +85,7 @@ Glyph: <i class="gi gi-bbrt"></i>
 ### BelAmi
 
 
-![BelAmi](./source-svg/porn/belami.svg)
+<img src="./source-svg/porn/belami.svg" alt="BelAmi" height="30" />
 
 
 ```html
@@ -95,7 +94,7 @@ Glyph: <i class="gi gi-bbrt"></i>
 
 ### Helix Studios
 
-![Helix Studios](./source-svg/porn/helixstudios.svg)
+<img src="./source-svg/porn/helixstudios.svg" alt="Helix Studios" height="30" />
 
 
 ```html
@@ -104,14 +103,14 @@ Glyph: <i class="gi gi-bbrt"></i>
 
 ### PornHub
 
-![PornHub](./source-svg/porn/pornhub.svg)
+<img src="./source-svg/porn/pornhub.svg" alt="PornHub" height="30" />
 
 ```html
 <i class="gi gi-pornhub"></i>
 ```
 ### Sean Cody
 
-![Sean Cody](./source-svg/porn/sean-cody.svg)
+<img src="./source-svg/porn/sean-cody.svg" alt="Sean Cody" height="30" />
 
 ```html
 <i class="gi gi-seancody"></i>
