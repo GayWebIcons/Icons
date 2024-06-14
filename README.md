@@ -51,11 +51,11 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 | Brand                      | Icon                                                                    | Sample Code                                    |
 | ---------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ |
-| BelAmi                       | <img src="./source-svg/hookup-sites/belami.svg" height="30" />                                                                        | ```<i class="gi gi-belami"></i>```               |
-| Helix Studios                     | <img src="./source-svg/hookup-sites/helixstudios.svg" height="30" />          | ```<i class="gi gi-grindr"></i>```                |
-| PornHub            | <img src="./source-svg/hookup-sites/pornhub].svg" height="30" /> | ```<i class="gi gi-grindr-helixstudios"></i>``` |
-| Sean Cody    | <img src="./source-svg/hookup-sites/seancody.svg" />                         | ```<i class="gi gi-pornhub"></i>```                |
-| NastyKinPigs ("Oink" logo) | <img src="./source-svg/hookup-sites/oink.svg" height="30" />            | ```<i class="gi gi-seancody"></i>```                |
+| BelAmi                       | <img src="./source-svg/porn/belami.svg" height="30" />                                                                        | ```<i class="gi gi-belami"></i>```               |
+| Helix Studios                     | <img src="./source-svg/porn/helixstudios.svg" height="30" />          | ```<i class="gi gi-grindr"></i>```                |
+| PornHub            | <img src="./source-svg/porn/pornhub.svg" height="30" /> | ```<i class="gi gi-grindr-helixstudios"></i>``` |
+| Sean Cody    | <img src="./source-svg/porn/seancody.svg" />                         | ```<i class="gi gi-pornhub"></i>```                |
+| NastyKinPigs ("Oink" logo) | <img src="./source-svg/porn/oink.svg" height="30" />            | ```<i class="gi gi-seancody"></i>```                |
 
 # License
 
