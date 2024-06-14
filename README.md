@@ -1,20 +1,20 @@
 ---
 
 authors:
-
-*   iamtheanitwink
-    title: README.md
-    lastmod: 2024-06-13T16:13:35-04:00
-    date: 2024-06-13T16:13:35-04:00
-    license: MIT
-    copyright: © 2024 David Gerard, All Rights Reserved
-    keywords:
-*   gay
-*   web
-*   icons
-    type: readme
-
+- iamtheanitwink
+title: README.md
+lastmod: 2024-06-13T16:13:35-04:00
+date: 2024-06-13T16:13:35-04:00
+license: MIT
+copyright: © 2024 David Gerard, All Rights Reserved
+keywords:
+- gay
+- web
+- icons
+type: readme
 ---
+
+<style src="https://cdn.gaywebicons.xyz/style.css"></style>
 
 # Welcome to Gay Web Icons!
 
