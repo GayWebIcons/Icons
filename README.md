@@ -39,10 +39,11 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 !!! warning Dark Theme
 
     The icons do not appear well when using the GitHub dark theme. They are best viewed on a light theme.
+    You can also view them on the [companion Website](https://gaywebicons.xyz) or the [CDN](https://cdn.gaywebicons.xyz/demo.html)
 
 ### Adam4Adam
 
-<img src="./source-svg/hookup-sites/a4a.svg" alt="Adam4Adam" height="30" />
+<img src="./source-svg/hookup-sites/a4a.svg" alt="Adam4Adam" height="30" style="height: 30px" />
 
 
 ```html
@@ -51,7 +52,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### BBRT
 
-<img src="./source-svg/hookup-sites/bbrt.svg" alt="BBRT" height="30" />
+<img src="./source-svg/hookup-sites/bbrt.svg" alt="BBRT" height="30" style="height: 30px" />
 
 
 ```html
@@ -60,7 +61,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### GayRomeo
 
-<img src="./source-svg/hookup-sites/gayromeo.svg" alt="GayRomeo" height="30" />
+<img src="./source-svg/hookup-sites/gayromeo.svg" alt="GayRomeo" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-gayromeo"></i>
@@ -68,7 +69,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Grindr
 
-<img src="./source-svg/hookup-sites/grindr.svg" alt="Grindr" height="30" />
+<img src="./source-svg/hookup-sites/grindr.svg" alt="Grindr" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-grindr"></i>
@@ -76,7 +77,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Grindr (Wordmark)
 
-<img src="./source-svg/hookup-sites/grindr-wordmark.svg" alt="Grindr Wordmark" height="30" />
+<img src="./source-svg/hookup-sites/grindr-wordmark.svg" alt="Grindr Wordmark" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-grindr-wordmark"></i>
@@ -84,7 +85,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Hornet
 
-<img src="./source-svg/hookup-sites/hornet.svg" alt="Hornet" height="30" />
+<img src="./source-svg/hookup-sites/hornet.svg" alt="Hornet" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-hornet"></i>
@@ -92,7 +93,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Manhunt
 
-<img src="./source-svg/hookup-sites/manhunt.svg" alt="Manhunt" height="30" />
+<img src="./source-svg/hookup-sites/manhunt.svg" alt="Manhunt" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-manhunt"></i>
@@ -100,7 +101,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### NastyKinPigs (NKP logo)
 
-<img src="./source-svg/hookup-sites/nkp.svg" alt="NastyKinPigs (NKP logo)" height="30" />
+<img src="./source-svg/hookup-sites/nkp.svg" alt="NastyKinPigs (NKP logo)" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-nkp"></i>
@@ -108,7 +109,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### NastyKinPigs ("Oink" logo)
 
-<img src="./source-svg/hookup-sites/oink.svg" alt="NastyKinPigs ('Oink' logo)" height="30" />
+<img src="./source-svg/hookup-sites/oink.svg" alt="NastyKinPigs ('Oink' logo)" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-nkp"></i>
@@ -116,7 +117,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Scruff
 
-<img src="./source-svg/hookup-sites/scruff.svg" alt="Scruff" height="30" />
+<img src="./source-svg/hookup-sites/scruff.svg" alt="Scruff" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-nkp"></i>
@@ -128,7 +129,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 ### BelAmi
 
 
-<img src="./source-svg/porn/belami.svg" alt="BelAmi" height="30" />
+<img src="./source-svg/porn/belami.svg" alt="BelAmi" height="30" style="height: 30px" />
 
 
 ```html
@@ -137,16 +138,16 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Helix Studios
 
-<img src="./source-svg/porn/helixstudios.svg" alt="Helix Studios" height="30" />
+<img src="./source-svg/porn/helix-studios.svg" alt="Helix Studios" height="30" style="height: 30px" />
 
 
 ```html
-<i class="gi gi-helixstudios"></i>
+<i class="gi gi-helix-studios"></i>
 ```
 
 ### Falcon Studios
 
-<img src="./source-svg/porn/falcon.svg" alt="Falcon Studios" height="30" />
+<img src="./source-svg/porn/falcon.svg" alt="Falcon Studios" height="30" style="height: 30px" />
 
 
 ```html
@@ -155,7 +156,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 ```
 ### JustForFans
 
-<img src="./source-svg/porn/jff.svg" alt="JustForFans" height="30" />
+<img src="./source-svg/porn/jff.svg" alt="JustForFans" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-jff"></i>
@@ -164,7 +165,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Naked Sword
 
-<img src="./source-svg/porn/naked-sword.svg" alt="Naked Sword" height="30" />
+<img src="./source-svg/porn/naked-sword.svg" alt="Naked Sword" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-naked-sword"></i>
@@ -172,7 +173,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### OnlyFans
 
-<img src="./source-svg/porn/of.svg" alt="OnlyFans" height="30" />
+<img src="./source-svg/porn/of.svg" alt="OnlyFans" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-of"></i>
@@ -180,7 +181,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### PornHub
 
-<img src="./source-svg/porn/pornhub.svg" alt="PornHub" height="30" />
+<img src="./source-svg/porn/pornhub.svg" alt="PornHub" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-pornhub"></i>
@@ -188,7 +189,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Sean Cody
 
-<img src="./source-svg/porn/sean-cody.svg" alt="Sean Cody" height="30" />
+<img src="./source-svg/porn/sean-cody.svg" alt="Sean Cody" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-seancody"></i>
@@ -196,7 +197,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ### Treasure Island Media
 
-<img src="./source-svg/porn/tim.svg" alt="Treasure Island Media" height="30" />
+<img src="./source-svg/porn/tim.svg" alt="Treasure Island Media" height="30" style="height: 30px" />
 
 ```html
 <i class="gi gi-tim"></i>
