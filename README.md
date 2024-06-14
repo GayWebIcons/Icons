@@ -42,7 +42,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 | BBRT                       | <img src="./source-svg/hookup-sites/bbrt.svg" height="30" />                                                                        | ```<i class="gi gi-bbrt"></i>```               |
 | Grindr                     | <img src="./source-svg/hookup-sites/grindr.svg" height="30" />          | ```<i class="gi gi-grindr"></i>```                |
 | Grindr Wordmark            | <img src="./source-svg/hookup-sites/grindr-wordmark.svg" height="30" /> | ```<i class="gi gi-grindr-wordmark"></i>``` |
-| NastyKinPigs (NKP logo)    | <img src="./source-svg/hookup-sites/nkp.svg" />                         | ```<i class="gi gi-nkp"></i>```                |
+| NastyKinPigs (NKP logo)    | <img src="./source-svg/hookup-sites/nkp.svg" height="30" />                         | ```<i class="gi gi-nkp"></i>```                |
 | NastyKinPigs ("Oink" logo) | <img src="./source-svg/hookup-sites/oink.svg" height="30" />            | ```<i class="gi gi-nkp"></i>```                |
 | Recon                      | <img src="./source-svg/hookup-sites/recon.svg" height="30" />           | ```<i class="gi gi-reon"></i>```               |
 
