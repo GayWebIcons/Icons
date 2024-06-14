@@ -42,7 +42,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ![BBRT](./source-svg/hookup-sites/bbrt.svg)
 
-<i class="gi gi-bbrt"></i>
+Glyph: <i class="gi gi-bbrt"></i>
 
 ```html
 <i class="gi gi-bbrt"></i>
