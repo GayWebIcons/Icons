@@ -51,9 +51,9 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 | Brand                      | Icon                                                                    | Sample Code                                    |
 | ---------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------ |
-| BelAmi                       | <img src="./source-svg/porn/belami.svg" height="30" />                                                                        | ```html |
-          | | <i class="gi gi-belami"></i> |
-            |   | ```               |
+| BelAmi                       | <img src="./source-svg/porn/belami.svg" height="30" />                                                                        | <pre><code>
+<i class="gi gi-belami"></i>
+</code></pre> |
 | Helix Studios                     | <img src="./source-svg/porn/helixstudios.svg" height="30" />          | ```<i class="gi gi-grindr"></i>```                |
 | PornHub            | <img src="./source-svg/porn/pornhub.svg" height="30" /> | ```<i class="gi gi-grindr-helixstudios"></i>``` |
 | Sean Cody    | <img src="./source-svg/porn/seancody.svg" height="30"  />                         | ```<i class="gi gi-pornhub"></i>```                |
