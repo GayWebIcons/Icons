@@ -2,7 +2,7 @@
 
 authors:
 - iamtheanitwink
-title: README.md
+title: Welcome to Gay Web Icons!
 lastmod: 2024-06-13T16:13:35-04:00
 date: 2024-06-13T16:13:35-04:00
 license: MIT
@@ -13,33 +13,6 @@ keywords:
 - icons
 type: readme
 ---
-
-- [Welcome to Gay Web Icons!](#welcome-to-gay-web-icons)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Icons - Hookup Sites/Apps](#icons---hookup-sitesapps)
-    - [Adam4Adam](#adam4adam)
-    - [BBRT](#bbrt)
-    - [GayRomeo](#gayromeo)
-    - [Grindr](#grindr)
-    - [Grindr (Wordmark)](#grindr-wordmark)
-    - [Hornet](#hornet)
-    - [Manhunt](#manhunt)
-    - [NastyKinPigs (NKP logo)](#nastykinpigs-nkp-logo)
-    - [NastyKinPigs ("Oink" logo)](#nastykinpigs-oink-logo)
-    - [Scruff](#scruff)
-  - [Icons - Porn Sites](#icons---porn-sites)
-    - [BelAmi](#belami)
-    - [Helix Studios](#helix-studios)
-    - [Falcon Studios](#falcon-studios)
-    - [JustForFans](#justforfans)
-    - [Naked Sword](#naked-sword)
-    - [OnlyFans](#onlyfans)
-    - [PornHub](#pornhub)
-    - [Sean Cody](#sean-cody)
-    - [Treasure Island Media](#treasure-island-media)
-- [License](#license)
-
 
 # Welcome to Gay Web Icons!
 
