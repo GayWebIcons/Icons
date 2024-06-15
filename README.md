@@ -132,6 +132,22 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 <i class="gi gi-scruff"></i>
 ```
 
+### Sniffies
+
+<img src="./source-svg/hookup-sites/sniffies.svg" alt="Sniffies" height="30" style="height: 30px" />
+
+```html
+<i class="gi gi-sniffies"></i>
+```
+
+### Sniffies (Filled)
+
+<img src="./source-svg/hookup-sites/sniffies-filled.svg" alt="Sniffies (Filled)" height="30" style="height: 30px" />
+
+```html
+<i class="gi gi-sniffies-filled"></i>
+```
+
 ## Icons - Porn Sites
 
 
@@ -169,6 +185,13 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ```html
 <i class="gi gi-jff"></i>
+```
+### JustForFans (Filled)
+
+<img src="./source-svg/porn/jff-filled.svg" alt="JustForFans (Filled)" height="30" style="height: 30px" />
+
+```html
+<i class="gi gi-jff-filled"></i>
 ```
 
 
