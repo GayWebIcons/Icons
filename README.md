@@ -38,7 +38,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 !!! warning Dark Theme
 
-    The icons do not appear well when using the GitHub dark theme. They are best viewed on a light theme.
+    The icons do not appear well when viewed inside of GitHub using the GitHub dark theme. They are best viewed on a light theme.
     You can also view them on the [companion Website](https://gaywebicons.xyz) or the [CDN](https://cdn.gaywebicons.xyz/demo.html)
 
 ### Adam4Adam
@@ -57,6 +57,15 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 
 ```html
 <i class="gi gi-bbrt"></i>
+```
+
+### BBRT (Mobile)
+
+<img src="./source-svg/hookup-sites/bbrt-mobile.svg" alt="BBRT (Mobile)" height="30" style="height: 30px" />
+
+
+```html
+<i class="gi gi-bbrt-mobile"></i>
 ```
 
 ### GayRomeo
@@ -112,7 +121,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 <img src="./source-svg/hookup-sites/oink.svg" alt="NastyKinPigs ('Oink' logo)" height="30" style="height: 30px" />
 
 ```html
-<i class="gi gi-nkp"></i>
+<i class="gi gi-oink"></i>
 ```
 
 ### Scruff
@@ -120,7 +129,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 <img src="./source-svg/hookup-sites/scruff.svg" alt="Scruff" height="30" style="height: 30px" />
 
 ```html
-<i class="gi gi-nkp"></i>
+<i class="gi gi-scruff"></i>
 ```
 
 ## Icons - Porn Sites
@@ -192,7 +201,7 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 <img src="./source-svg/porn/sean-cody.svg" alt="Sean Cody" height="30" style="height: 30px" />
 
 ```html
-<i class="gi gi-seancody"></i>
+<i class="gi gi-sean-cody"></i>
 ```
 
 ### Treasure Island Media
