@@ -124,6 +124,14 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 <i class="gi gi-oink"></i>
 ```
 
+### Recon
+
+<img src="./source-svg/hookup-sites/recon.svg" alt="Recon" height="30" style="height: 30px" />
+
+```html
+<i class="gi gi-recon"></i>
+```
+
 ### Scruff
 
 <img src="./source-svg/hookup-sites/scruff.svg" alt="Scruff" height="30" style="height: 30px" />
