@@ -12,13 +12,6 @@ keywords:
 - icons
 type: readme
 ---
-<style src="https://cdn.gaywebicons.xyz/style.css" type="text/css"></style>
-<style type="text/css">
-    .gi {
-        font-size: 30px;
-        margin: 0 5px;
-    }
-</style>
 
 # Welcome to Gay Web Icons!
 
@@ -26,7 +19,7 @@ An iconset for the gay community, by the gay community, of logos for gay Website
 
 ## Installation
 
-Add the following to your HTML file:
+Add the following to your HTML file inside of the HEAD tag:
 
 ```html
 <link rel="stylesheet" href="https://cdn.gaywebicons.xyz/style.css" />
