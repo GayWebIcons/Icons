@@ -4,7 +4,7 @@ authors:
 title: Do What The F*ck You Want To Public License
 lastmod: 2024-06-13T16:13:35-04:00
 date: 2024-06-13T16:13:35-04:00
-license: MIT
+license: WTFPL
 copyright: © 2024 David Gerard, All Rights Reserved
 keywords:
 - just do that the fuck you want to
