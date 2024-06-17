@@ -202,6 +202,13 @@ Add the `link` tag to your HTML file, then use the following code to add an icon
 <i class="gi gi-jff-filled"></i>
 ```
 
+### 4MyFans
+
+<img src="./source-svg/porn/4mf.svg" alt="4MyFans" height="30" style="height: 30px" />
+
+```html
+<i class="gi gi-4mf"></i>
+```
 
 ### Naked Sword
 
