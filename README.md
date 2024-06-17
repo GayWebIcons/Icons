@@ -13,6 +13,14 @@ keywords:
 type: readme
 ---
 
+<style type="text/css" src="https://cdn.gaywebicons.xyz/style.css"></style>
+<style type="text/css">
+  .gi {
+    display: inline-block;
+    font-size: 30px;
+  }
+</style>
+
 # Welcome to Gay Web Icons!
 
 An iconset for the gay community, by the gay community, of logos for gay Websites, Apps, and other digital media--as a Web font!
